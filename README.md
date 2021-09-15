@@ -9,7 +9,7 @@ Hybrid images are images that can be seen from a distance in one form and up clo
 
 # Results, group 1
 <p align="center">
-  <img width="640" height="640" src="./outputs/1/q4_14_hybrid_near.jpg">
-  <img width="640" height="640" src="./outputs/1/q4_15_hybrid_far.jpg">
+  <img width="640" height="640" src="./outputs/1/Q4_14_hybrid_near.jpg">
+  <img width="640" height="640" src="./outputs/1/Q4_15_hybrid_far.jpg">
 </p>
 
